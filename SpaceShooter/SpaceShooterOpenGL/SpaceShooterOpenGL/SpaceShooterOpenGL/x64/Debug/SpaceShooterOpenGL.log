@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\zoo10\Desktop\spd\SpaceShooterOpenGL\SpaceShooterOpenGL\SpaceShooterOpenGL\Main.cpp(45,23): warning C4244: 'başlatılıyor': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\zoo10\Desktop\spd\SpaceShooterOpenGL\SpaceShooterOpenGL\SpaceShooterOpenGL\Main.cpp(114,29): warning C4244: '=': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\zoo10\Desktop\spd\SpaceShooterOpenGL\SpaceShooterOpenGL\SpaceShooterOpenGL\Main.cpp(123,29): warning C4244: '=': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+  SpaceShooterOpenGL.vcxproj -> C:\Users\zoo10\Desktop\spd\SpaceShooterOpenGL\SpaceShooterOpenGL\x64\Debug\SpaceShooterOpenGL.exe

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711647624 source:c:\users\zoo10\desktop\spd\spaceshooterconsole\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
